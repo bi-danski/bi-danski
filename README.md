@@ -62,4 +62,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/bi-danski">bi-danski</a></i></p>
+<p align="center"><i>Powered By <a href="https://github.com/bi-danski">bi-danski™</a></i></p>
