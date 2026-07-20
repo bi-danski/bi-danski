@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=730&height=44&lines=Ain't%20the%20King%20of%20the%20codebase%2C%20Just%20the%20Hand." alt="..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=600&size=26&pause=5000&color=a371f7&center=true&vCenter=true&width=730&height=44&lines=Ain't%20the%20King%20of%20the%20codebase%2C%20Just%20the%20Hand." alt="..." />
 </p>
 
 ### 🛠️ Tech Stack
