@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/bi-danski">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Bidanski" alt="Bidanski" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=45&height=90&width=420&text=Bidanski" alt="Bidanski" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=730&height=44&lines=Ain't%20the%20King%20of%20the%20codebase%2C%20Just%20the%20Hand." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=730&height=44&lines=Ain't%20the%20King%20of%20the%20codebase%2C%20Just%20the%20Hand." alt="..." />
 </p>
 
 ### 🛠️ Tech Stack
