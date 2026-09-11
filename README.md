@@ -42,7 +42,12 @@
 
 <p align="left">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bi-danski&show_icons=true&theme=tokyonight&title_color=00000000&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-</p>
+</
+[!(https://github-stats-extended.vercel.app/api?username=bi-danski&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bi-danski&show_icons=true&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+
+
+
+
 
 <!-- <p align="center"> -->
 <!-- <p align="center"><i>Powered By <a href="https://github.com/bi-danski">bi-danski™</a></i></p> -->
