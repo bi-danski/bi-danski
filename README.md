@@ -36,5 +36,5 @@
 
 
 
-[![](https://github-stats-extended.vercel.app/api/?username=bi-danski&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+[![](https://github-stats-extended.vercel.app/api/?username=bi-danski&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bi-danski&show_icons=true&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
