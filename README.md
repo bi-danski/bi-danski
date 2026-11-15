@@ -37,4 +37,5 @@
 
 [![](https://github-stats-extended.vercel.app/api?username=bi-danski&show_icons=true&theme=radical&disable_animation=false)](https://github.com/bi-danski/bi-danski)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bi-danski&show_icons=true&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+
+[![](https://streak-stats.demolab.com/?user=bi-danski&theme=radical&hide_border=true&border_radius=12&disable_animation=false)](https://github.com/bi-danski/bi-danski)
